@@ -1,4 +1,4 @@
-# Linuxowy kontener z openjdk v17
+# Linuxowy kontener z openjdk
 FROM openjdk:23-jdk-slim
 
 # Ustawianie workdira w kontenerze
